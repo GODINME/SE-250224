@@ -1,0 +1,4 @@
+npm install yarn -g
+npm install typescript -g
+npm install nodemon -g
+npm install express-generator -g
