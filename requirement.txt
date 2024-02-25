@@ -3,3 +3,8 @@ npm install typescript -g
 npm install nodemon -g
 npm install express-generator -g
 npm install lite-server -g # optional
+
+# TypeScript Setup
+rename js to ts
+touch tsconfig.json: { compilerOptions - module: CommonJs, sourceMap:true, traget: ES2023}
+ctr shift b and press watch or tsc -w on the terminal
